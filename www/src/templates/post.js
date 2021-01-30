@@ -37,9 +37,6 @@ export default ({ data, pageContext }) => {
 
           <hr />
           <Bio config={config} />
-          <div className={styles.postMeta}>
-            <SocialLinks postPath={slug} postNode={postNode} />
-          </div>
         </div>
         <nav>
           <ul className={styles.pagination}>

@@ -12,7 +12,7 @@ const MainLayout = ({ children }) => (
       <meta name="description" content={config.siteDescription} />
     </Helmet>
     {children}
-    <Footer />
+    <p style={{textAlign: "center", fontSize: "10px"}}>Copyright © 2020. All rights reserved.</p>
   </>
 )
 

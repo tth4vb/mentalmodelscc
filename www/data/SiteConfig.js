@@ -13,8 +13,8 @@ const config = {
   dateFromFormat: 'YYYY-MM-DD', // Date format used in the frontmatter.
   dateFormat: 'DD/MM/YYYY', // Date format for display.
   userName: 'Trevor Hinkle', // Username to display in the author segment.
-  userTwitter: 'trevorhnkle3', // Optionally renders "Follow Me" in the Bio segment.
-  userGitHub: 'tth4vb', // Optionally renders "Follow Me" in the Bio segment.
+  userTwitter: 'trevorhinkle3', // Optionally renders "Follow Me" in the Bio segment.
+  userGitHub: 'tth4vb/mentalmodelscc', // Optionally renders "Follow Me" in the Bio segment.
   userLocation: 'The Hague, The Netherlands', // User location to display in the author segment.
   userAvatar: 'https://i.ibb.co/WPz9CNk/avatar.jpg', // User avatar to display in the author segment.
   userDescription:
