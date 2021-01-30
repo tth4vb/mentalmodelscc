@@ -18,7 +18,6 @@ const Header = () => (
             About
           </Link>
         </li>
-        <Categories activeClassName={styles.activeNav} />
         <li>
           <Link to="/contact" activeClassName={styles.activeNav}>
             Contact

@@ -2,7 +2,7 @@ const config = {
   siteTitle: 'Mental Models for Climate Change', // Site title.
   siteTitleShort: 'Mental Models for CC', // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: 'Mental Models for Climate Change', // Alternative site title for SEO.
-  siteLogo: '/logos/logo-1024.png', // Logo used for SEO and manifest.
+  siteLogo: '/logos/favicon-32x32.png', // Logo used for SEO and manifest.
   siteUrl: 'https://mentalmodels.cc', // Domain of your website without pathPrefix.
   pathPrefix: '', // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription:
