@@ -70,13 +70,11 @@ export const pageQuery = graphql`
       frontmatter {
         title
         cover
-        date
         categories
         tags
       }
       fields {
         slug
-        date(formatString: "MMMM DD, YYYY")
       }
     }
   }
